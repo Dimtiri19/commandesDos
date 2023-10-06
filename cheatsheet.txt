@@ -1,1 +1,54 @@
-petit test
+Navigation dans les répertoires :
+
+cd : Changer de répertoire.
+ls : Lister les fichiers et répertoires.
+pwd : Afficher le chemin complet du répertoire actuel.
+Gestion des fichiers et répertoires :
+
+touch : Créer un fichier vide.
+mkdir : Créer un répertoire.
+cp : Copier des fichiers ou répertoires.
+mv : Déplacer ou renommer des fichiers ou répertoires.
+rm : Supprimer des fichiers ou répertoires.
+find : Rechercher des fichiers.
+Manipulation de fichiers texte :
+
+cat : Afficher le contenu d'un fichier.
+head : Afficher les premières lignes d'un fichier.
+tail : Afficher les dernières lignes d'un fichier.
+grep : Rechercher un motif dans un fichier.
+sed : Éditer un fichier texte.
+Gestion des processus :
+
+ps : Afficher les processus en cours d'exécution.
+kill : Terminer un processus.
+top : Afficher les processus en cours en temps réel.
+Gestion des utilisateurs et des autorisations :
+
+whoami : Afficher l'utilisateur actuel.
+useradd : Ajouter un utilisateur.
+passwd : Changer le mot de passe d'un utilisateur.
+chown : Modifier le propriétaire d'un fichier ou répertoire.
+chmod : Modifier les autorisations d'accès à un fichier ou répertoire.
+Archivage et compression :
+
+tar : Créer ou extraire des archives tar.
+zip : Créer ou extraire des fichiers compressés au format ZIP.
+Réseau :
+
+ping : Tester la connectivité réseau.
+ifconfig : Afficher ou configurer les interfaces réseau.
+Installation et gestion de logiciels :
+
+apt-get ou apt (sur les systèmes basés sur Debian) : Gérer les packages.
+yum (sur les systèmes basés sur Red Hat) : Gérer les packages.
+snap : Gérer les applications Snap.
+Information système :
+
+uname : Afficher des informations sur le système.
+df : Afficher l'utilisation de l'espace disque.
+free : Afficher l'utilisation de la mémoire.
+Contrôle du temps et de la date :
+
+date : Afficher la date et l'heure actuelles.
+timedatectl (sur les systèmes basés sur systemd) : Gérer la date et l'heure.
